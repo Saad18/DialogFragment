@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DialogFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="yout_custom_dialog_heading">Yout Custom Dialog Heading!</string>
+    <string name="this_is_an_activity">This is an Activity</string>
+    <string name="open_dialog">Open Dialog</string>
+    <string name="enter_some_text">enter some text....</string>
+    <string name="_nothing">nothing</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+</resources>
